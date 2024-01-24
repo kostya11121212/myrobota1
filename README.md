@@ -1,10 +1,9 @@
-# myrobota1
-html button
 <p>Регістація</p>
 <hr>
 <form name ="myform">
   <lable>І'мя:</lable><br>
   <input type="text" name="login"><br>
+  
   <lable>Email:</lable><br>
   <input type="email" name="email"><br>
   <br>
