@@ -1,5 +1,3 @@
-# myrobota1
-html button
 <p>Регістація</p>
 <hr>
 <form name ="myform">
@@ -11,7 +9,6 @@ html button
  <!DOCTYPE html>
 <html>
   <head>
-    <title>Заголовок документа</title>
   </head>
   <body>
     <form>
